@@ -8,9 +8,13 @@
 /* Assign a unique ID to this sensor at the same time */
 Adafruit_ADXL345_Unified accel = Adafruit_ADXL345_Unified(12345);
 
-// WiFi credentials.
-const char* WIFI_SSID = "MySpectrumWiFi90-2G";
-const char* WIFI_PASS = "happyocean254";
+// Home WiFi credentials.
+//const char* WIFI_SSID = "MySpectrumWiFi90-2G";
+//const char* WIFI_PASS = "happyocean254";
+
+// School WiFi credentials.
+const char* WIFI_SSID = "xavierguest";
+const char* WIFI_PASS = "";
 
 // Losant credentials.
 const char* LOSANT_DEVICE_ID = "5adaa3fce304ec0006542add";
