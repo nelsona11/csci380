@@ -11,8 +11,8 @@
 #include <Losant.h>
 
 // WiFi credentials.
-const char* WIFI_SSID = "xavierguest";
-const char* WIFI_PASS = "";
+const char* WIFI_SSID = "MySpectrumWiFi90-2G";
+const char* WIFI_PASS = "happyocean254";
 
 
 // Losant credentials.
