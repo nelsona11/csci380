@@ -7,7 +7,7 @@ the exported Losant workflow.
 # Video with a football helmet
 https://www.youtube.com/watch?v=M4lQ-EG_5vY
 
-#Video with more information
+# Video with more information
 https://www.youtube.com/watch?v=1bc1YF8XQCY&feature=youtu.be
 
 # How To Use
